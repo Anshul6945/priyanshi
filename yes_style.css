@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(255, 192, 203);
+    background-color: rgb(255, 105, 180);
 }
 
 .header_text {
@@ -15,9 +15,18 @@ body {
     margin-top: 20px;
     margin-bottom: 0px;
 }
+.header{
+    font-family: 'Nunito';
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
 
 .gif_container {
     display: flex;
     justify-content: center;
     align-items: center;
+    width : 100%;
 }
